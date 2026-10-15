@@ -1,0 +1,29 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Badr Al-Zekri profile banner</title>
+  <desc id="desc">A dark modern banner with emerald accents and the text Badr Al-Zekri, Software Developer, and practical web backend and mobile projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10B981"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+
+  <circle cx="1110" cy="-40" r="190" fill="#10B981" fill-opacity="0.08"/>
+  <circle cx="150" cy="370" r="150" fill="#34D399" fill-opacity="0.06"/>
+
+  <path d="M0 82H470" stroke="url(#accent)" stroke-opacity="0.35"/>
+  <path d="M810 282H1280" stroke="url(#accent)" stroke-opacity="0.35"/>
+  <path d="M920 0L1280 360" stroke="#10B981" stroke-opacity="0.12"/>
+
+  <rect x="120" y="128" width="8" height="102" rx="4" fill="url(#accent)"/>
+
+  <text x="150" y="170" fill="#F8FAFC" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="0.5">Badr Al-Zekri</text>
+  <text x="152" y="212" fill="#C7D2FE" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="24" font-weight="500">Software Developer</text>
+  <text x="152" y="248" fill="#9CA3AF" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="20" font-weight="400">Practical Web · Backend · Mobile Projects</text>
+</svg>
