@@ -24,6 +24,10 @@ Software developer focused on building practical products and steadily improving
 - **[TailorHouse](https://github.com/Badr-Al-Zekri/TailorHouse)**  
   Flutter project scaffold used as a base for mobile application development experiments.
 
+### Contact
+
+- [LinkedIn](https://www.linkedin.com/in/badralzekri)
+
 ### Working Style
 
 I prefer clean architecture, readable implementation, and incremental delivery. I document decisions clearly and keep projects maintainable as they evolve.
