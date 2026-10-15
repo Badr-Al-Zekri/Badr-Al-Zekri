@@ -4,14 +4,20 @@
 
 ## Badr Al-Zekri
 
-Software developer focused on building practical products and steadily improving engineering depth through real project work.
+Software developer building practical products and improving engineering depth through hands-on project work.
 
-### Focus
+### Areas of Interest
 
-- Web interfaces and product-oriented frontend development
-- Backend-powered web applications
-- Mobile app foundations with Flutter
-- Ongoing exploration of AI-assisted development workflows
+- Web product development
+- Backend-powered applications
+- Mobile development with Flutter
+- AI-assisted development workflows (exploration)
+
+### Technologies in Public Projects
+
+- **Frontend:** React, TypeScript, Tailwind CSS, Vite
+- **Backend/Web:** Laravel, PHP, Blade, Bootstrap
+- **Mobile:** Flutter, Dart
 
 ### Selected Projects
 
@@ -27,6 +33,7 @@ Software developer focused on building practical products and steadily improving
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/badralzekri)
+- [GitHub](https://github.com/Badr-Al-Zekri)
 
 ### Working Style
 
