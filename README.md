@@ -30,6 +30,12 @@ Software developer building practical products and improving engineering depth t
 - **[TailorHouse](https://github.com/Badr-Al-Zekri/TailorHouse)**  
   Flutter project scaffold used as a base for mobile application development experiments.
 
+### Recommended Pinned Projects (Order)
+
+1. **Khuta** — most complete product narrative and implementation depth.
+2. **DevPhoria** — practical Laravel web project with multi-page structure.
+3. **TailorHouse** — active mobile direction with Flutter foundation.
+
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/badralzekri)
